@@ -26,7 +26,7 @@ class Pig extends BaseClass {
     score++
     console.log(score)
   }
-    console.log(this.Visbility)
+    console.log(this.Visiblity)
  }
 
 
